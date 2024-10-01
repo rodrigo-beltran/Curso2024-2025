@@ -35,9 +35,7 @@
       {
         "courseName": "Web Semantic and Linked Data",
         "teacher": "Oscar Corcho",
-        "description": "El objetivo de esta asignatura es proporcionar la base teórica y práctica sobre los fundamentos metodológicos y
-tecnológicos implicados en la generación y publicación de vocabularios y datos en la Web de datos enlazados, así
-como en forma de grafos de conocimientos."
+        "description": "Enseñar los fundamentos teóricos y prácticos para crear y publicar vocabularios y datos en la Web de datos enlazados y grafos de conocimientos."
       }
     ]
   }
