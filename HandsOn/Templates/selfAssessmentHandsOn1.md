@@ -1,4 +1,3 @@
-
 # Hands-on assignment 1 – Self assessment
 
 ## Checklist
